@@ -1,0 +1,31 @@
+{
+  "name": "loop-india",
+  "version": "1.0.0",
+  "description": "LOOP — India's first circular economy platform connecting households with verified waste pickers",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -p 3000",
+    "dev": "npx serve . -p 3000 --no-clipboard",
+    "db:push": "supabase db push",
+    "db:reset": "supabase db reset"
+  },
+  "keywords": [
+    "circular-economy",
+    "waste-management",
+    "recycling",
+    "supabase",
+    "india",
+    "sustainability",
+    "SDG"
+  ],
+  "author": "LOOP Technologies Pvt. Ltd.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/loop-india.git"
+  },
+  "homepage": "https://loop-india.netlify.app",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}

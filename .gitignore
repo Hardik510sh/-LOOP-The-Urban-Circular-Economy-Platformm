@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.npm
+
+# Environment secrets — NEVER commit these
+.env
+.env.local
+.env.production
+*.env
+
+# Supabase local dev
+.supabase/
+supabase/.temp/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Editor
+.vscode/settings.json
+.idea/
+*.sublime-workspace
+
+# Build output (if added later)
+dist/
+build/
+.next/
+out/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temp
+tmp/
+temp/
