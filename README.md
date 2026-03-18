@@ -206,9 +206,6 @@ MIT © 2025 LOOP Technologies Pvt. Ltd.
 ---
 
 ## 📞 Contact
-
-- 🌐 [loopindia.co](https://loopindia.co)
-- 📧 hello@loopindia.co
 - 💬 WhatsApp: +91 98765 43210
 - 🏙️ Ghaziabad, Uttar Pradesh, India 🇮🇳
 
